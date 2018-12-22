@@ -1,8 +1,8 @@
 # 环境
 
-软件: `Keil MDK-ARM Plus Version:5.22`
-操作系统: `Windows 10 Pro 1803`
-单片机: `stm32f407ZGT6`
+- 软件: `Keil MDK-ARM Plus Version:5.22`
+- 操作系统: `Windows 10 Pro 1803`
+- 单片机: `stm32f407ZGT6`
 
 # 介绍
 
