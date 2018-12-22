@@ -1,0 +1,20 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+/*
+!/README.md
+!/.gitignore
+!/stm32_control
+!/stm32_flight
+
+/stm32_control/*
+!/stm32_control/GPIO引脚分配表.xlsx
+!/stm32_control/App
+!/stm32_control/User
+!/stm32_control/Project
+/stm32_control/Project/Objects/*
+
+/stm32_flight/*
+!/stm32_flight/GPIO引脚分配表.xlsx
+!/stm32_flight/App
+!/stm32_flight/User
+!/stm32_flight/Project
+/stm32_flight/Project/Objects/*
